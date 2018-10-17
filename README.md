@@ -11,6 +11,22 @@ All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
+## Solution Information
+Heroku: https://rails-tutorial-sample-solution.herokuapp.com/
+GitHub: https://github.com/Shadowbomb/sample_app
+
+HEROKU SENDGRID USERNAME: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+HEROKU SENDGRID PASSWORD: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Amazon bucket name: rails-tutorial-sample-app-solution
+Amazon access key id: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Amazon secret access key: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+sample_app/test/integration/password_resets_test.rb row 76 check REGEX
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
