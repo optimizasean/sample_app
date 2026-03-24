@@ -13,7 +13,7 @@ is available jointly under the MIT License and the Beerware License. See
 
 ## Solution Information
 Heroku: https://rails-tutorial-sample-solution.herokuapp.com/
-GitHub: https://github.com/Shadowbomb/sample_app
+GitHub: https://github.com/optimizasean/sample_app
 
 HEROKU SENDGRID USERNAME: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 HEROKU SENDGRID PASSWORD: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
